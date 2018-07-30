@@ -10,6 +10,8 @@
 /build
 
 # misc
+/public/bundle.js
+
 .eslintrc
 .DS_Store
 .env.local
