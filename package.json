@@ -21,6 +21,7 @@
     "eslint": "^5.1.0",
     "eslint-plugin-react": "^7.10.0",
     "jest": "^23.4.1",
+    "react-test-renderer": "^16.4.1",
     "webpack-command": "^0.4.1"
   },
   "dependencies": {
