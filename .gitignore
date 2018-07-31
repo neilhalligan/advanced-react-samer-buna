@@ -11,6 +11,7 @@
 
 # misc
 /public/bundle.js
+lib/state-api/
 
 .eslintrc
 .DS_Store

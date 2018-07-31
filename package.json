@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
     "eslint": "^5.1.0",
     "eslint-plugin-react": "^7.10.0",
     "jest": "^23.4.1",
@@ -25,6 +27,7 @@
     "webpack-command": "^0.4.1"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
@@ -33,6 +36,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "pm2": "^3.0.0",
+    "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "webpack": "^4.16.1"
