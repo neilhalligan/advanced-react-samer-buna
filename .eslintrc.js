@@ -22,6 +22,7 @@ module.exports = {
     'linebreak-style': ['error', 'unix'],
     quotes: ['error', 'single'],
     semi: ['error', 'always'],
-    'no-console': ['warn', { allow: ['info', 'error'] }],
+    'no-console': ['warn', { allow: ['log', 'error'] }],
+    'no-unused-vars': ["error", { "varsIgnorePattern": "testSetup" }]
   },
 };
